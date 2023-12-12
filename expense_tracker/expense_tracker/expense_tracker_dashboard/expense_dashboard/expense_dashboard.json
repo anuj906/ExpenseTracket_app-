@@ -1,0 +1,28 @@
+{
+ "cards": [
+  {
+   "card": "Total Credits"
+  },
+  {
+   "card": "Total Debits"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "balance over time",
+   "width": "Half"
+  }
+ ],
+ "creation": "2023-11-27 10:42:09.669940",
+ "dashboard_name": "Expense Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2023-11-29 13:04:53.508111",
+ "modified_by": "Administrator",
+ "module": "Expense Tracker",
+ "name": "Expense Dashboard",
+ "owner": "Administrator"
+}
